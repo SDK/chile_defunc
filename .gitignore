@@ -1,3 +1,10 @@
 *.zip
 *.rar
 .DS_Store
+*.csv
+*.mdb
+*.dbf
+*.DBF
+*.accdb
+*.xlsx
+
